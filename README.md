@@ -1,0 +1,1 @@
+For Adding CAIC Events, Organizers & Venues that don't already exist.  DO NOT overwrite the files! Download which one(s) you need (probably only EVENTS), SAVE AS (yourname)_Events.csv, add your data, save the changes to YOUR FILE.  Email YOUR FILE as an attachment to ME crafteecook@Hotmail.com.  This will change in the future...Thanks 
